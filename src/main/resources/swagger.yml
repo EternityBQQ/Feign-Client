@@ -1,0 +1,11 @@
+#swagger配置信息
+swagger:
+  enable: true
+  title: 用户服务
+  basePackage: com.itcast.feignclient
+  projectVersion: V2.0
+  description: 用户服务
+  license: Apache License, Version 2.0
+  licenseUrl: https://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfServiceUrl: http://localhost/doc.html
+  contact: 2215751025@qq.com
