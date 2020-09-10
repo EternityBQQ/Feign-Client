@@ -36,7 +36,6 @@ public class Swagger2Config {
 
     @Bean
     public Docket createRestApi() {
-        System.out.println(swaggerProperty);
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 // 分组名称
